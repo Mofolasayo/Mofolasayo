@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mofolasayo Osikoya</h1>
-<h4 align="center">👨‍💻 Junior Flutter Developer | CS Student | HNG i11 finalist | Tech Enthusiast 💡 Passionate about crafting intuitive and scalable mobile experiences using Flutter and Dart. Always on a journey to learn, build, and create impactful solutions. Currently sharpening my skills, exploring state management patterns, and playing with cool UI/UX designs. Let’s build the future, one line of code at a time! 🌍✨</h3>
+<p align="center">👨‍💻 Junior Flutter Developer | CS Student | HNG i11 finalist | Tech Enthusiast 💡 Passionate about crafting intuitive and scalable mobile experiences using Flutter and Dart. Always on a journey to learn, build, and create impactful solutions. Currently sharpening my skills, exploring state management patterns, and playing with cool UI/UX designs. Let’s build the future, one line of code at a time! 🌍✨</p>
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmtraGpjMGpoY2x5eTVjcGo4Ymt2MnlpNTUwM3R4Y3NjajI2NjhseiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/E89xxATM4iZoPdr6Tb/giphy.gif" alt="Dash GIF">
 
