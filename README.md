@@ -8,7 +8,7 @@
 
 
 
-- 💬 Ask me about **Flutter, Dart, Bloc, Riverpod**
+- 💬 Ask me about **Flutter, Dart, Bloc**
 
 - 📫 How to reach me **osikoyamofolasayo@gmail.com**
   
