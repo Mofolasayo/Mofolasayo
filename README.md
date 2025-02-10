@@ -14,7 +14,7 @@
   
 - 🌱 I’m currently learning **Advanced dart concepts**
 
-- 👯 I’m looking to collaborate on **Open-source Flutter projects and mobile application development.**
+- 👯 I am looking to collaborate on **Open-source Flutter projects and mobile application development.**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1KCnDOVnnVDCenNKAIeNRU37rVYTVcxu7/view?usp=sharing](https://drive.google.com/file/d/1KCnDOVnnVDCenNKAIeNRU37rVYTVcxu7/view?usp=sharing)
 
