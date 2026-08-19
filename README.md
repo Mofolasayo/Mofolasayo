@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mofolasayo Osikoya</h1>
-<p align="center">👨‍💻 Flutter Developer | CS Student | HNG i11 finalist | Tech Enthusiast 💡 Passionate about crafting intuitive and scalable mobile experiences using Flutter and Dart. Always on a journey to learn, build, and create impactful solutions. I am currently sharpening my skills, exploring state management patterns, and playing with cool UI/UX designs. Let’s build the future, one line of code at a time! 🌍✨</p>
+<p align="center">👨‍💻 Technical Delivery | Full-Stack Development | Flutter | React/Next.js | Supabase | Firebase | AI-Assisted Development 💡 Passionate about crafting intuitive and scalable mobile experiences using Flutter and Dart. Always on a journey to learn, build, and create impactful solutions. Let’s build the future, one line of code at a time! 🌍✨</p>
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmtraGpjMGpoY2x5eTVjcGo4Ymt2MnlpNTUwM3R4Y3NjajI2NjhseiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/E89xxATM4iZoPdr6Tb/giphy.gif" alt="Dash GIF">
 
